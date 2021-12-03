@@ -21,7 +21,7 @@ These plugins are add-ons for Pl3xMap.
 | Pl3xMap-CMI             | Shows warp points, hide vanished players |  | [Source](https://github.com/DoctaEnkoda/Pl3xMap-CMI)            |
 | Pl3xMap-DeathSpot       | Shows player death spots                 |  | [Source](https://github.com/pl3xgaming/Pl3xMap-DeathSpot)       |
 | Pl3xMap-Essentials      | Shows warp points, hide vanished players |  | [Source](https://github.com/pl3xgaming/Pl3xMap-Essentials)      |
-| Pl3xMap-GriefPrevention | Shows GriefPrevention claims             |  | [Source](https://github.com/pl3xgaming/Pl3xMap-GriefPrevention) |
+| Pl3xMap-GriefPrevention | Shows GriefPrevention claims             | [Download](https://github.com/Tydium/Pl3xMap-GriefPrevention/releases/Latest)  | [Source](https://github.com/pl3xgaming/Pl3xMap-GriefPrevention) |
 | GDHooks                 | Shows GriefDefender claims               |  | [Source](https://github.com/bloodmc/GDHooks)                    |
 | Pl3xMap-Mobs            | Shows mob entities                       |  | [Source](https://github.com/pl3xgaming/Pl3xMap-Mobs)            |
 | Pl3xMap-Signs           | Shows signs                              |  | [Source](https://github.com/pl3xgaming/Pl3xMap-Signs)           |
